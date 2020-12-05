@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prabalparihar95@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/view.aspx?cid=183878928A2927D5&resid=183878928A2927D5%216833&canary=Lb%2BJIjgPkET48TIYubL2xK4TkDT7Ix8NARqYn%2B7Yrgk%3D3&ithint=%2Epdf&open=true&app=WordPdf](https://onedrive.live.com/view.aspx?cid=183878928A2927D5&resid=183878928A2927D5%216833&canary=Lb%2BJIjgPkET48TIYubL2xK4TkDT7Ix8NARqYn%2B7Yrgk%3D3&ithint=%2Epdf&open=true&app=WordPdf)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3](https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3)
 
 - ⚡ Fun fact **Did you know how many total programming languages? – it’s 698.**
 
