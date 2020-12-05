@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilverma360?logo=twitter&style=for-the-badge" alt="PrabalParihar" /></a> </p>
+
 
 - 🔭 I’m currently working on **Big Data**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prabalparihar95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kNeIEs7n0oGRYTYho-NFcajmiPTT6Kya/view?usp=sharing](https://drive.google.com/file/d/1kNeIEs7n0oGRYTYho-NFcajmiPTT6Kya/view?usp=sharing)
+- 📄 Know about my experiences [https://onedrive.live.com/view.aspx?cid=183878928A2927D5&resid=183878928A2927D5%216833&canary=Lb%2BJIjgPkET48TIYubL2xK4TkDT7Ix8NARqYn%2B7Yrgk%3D3&ithint=%2Epdf&open=true&app=WordPdf](https://onedrive.live.com/view.aspx?cid=183878928A2927D5&resid=183878928A2927D5%216833&canary=Lb%2BJIjgPkET48TIYubL2xK4TkDT7Ix8NARqYn%2B7Yrgk%3D3&ithint=%2Epdf&open=true&app=WordPdf)
 
 - ⚡ Fun fact **Did you know how many total programming languages? – it’s 698.**
 
