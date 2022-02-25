@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on **Big Data**
+- 🔭 I’m currently working on **Block-Chain**
 
-- 🌱 I’m currently learning **crypto**
+- 🌱 I’m currently learning **Web 3.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrabalParihar](https://github.com/PrabalParihar)
 
-- 💬 Ask me about **android, bot automation, entrepreneurship**
+- 💬 Ask me about **WEB, BLOCKCHAIN, entrepreneurship**
 
 - 📫 How to reach me **prabalparihar95@gmail.com**
 
