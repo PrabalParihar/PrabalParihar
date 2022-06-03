@@ -26,7 +26,8 @@
 <a href="https://www.instagram.com/prabal_parihar_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="PrabalParihar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilverma360&show_icons=true&locale=en&layout=compact" alt="PrabalParihar" /></p>
+ -->
