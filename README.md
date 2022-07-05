@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **prabalparihar95@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3](https://1drv.ms/b/s!AtUnKYqSeDgYtTEz3RsoaVVmhLQV?e=TlyWG3)
 
 - ⚡ Fun fact **Did you know how many total programming languages? – it’s 698.**
 
