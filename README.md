@@ -2,11 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align= "center"><img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250"></p>
 <p align="left"> <a href="https://twitter.com/0xPrabalParihar" target="blank"><img src="https://https://img.shields.io/twitter/follow/0xprabalparihar?logo=twitter&style=for-the-badge" alt="0xprabalparihar" /></a> </p>
-
 ![](https://komarev.com/ghpvc/?username=PrabalParihar&label=I'm+watching+you!+Profile+view+count)
-
-
-
 
 - 🔭 I’m currently working on **Block-Chain**
 
