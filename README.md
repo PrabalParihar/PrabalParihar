@@ -28,3 +28,4 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3>
  -->
+ ![0xPrabal.eth GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabalParihar&show_icons=true&theme=radical)
