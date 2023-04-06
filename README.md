@@ -28,7 +28,7 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3>
  -->
- |🎯 Github Stats  🏆| 🏆 Most used languages 🔭|
+ |🎯 Github Stats  🏆| 🏆 Most used languages 🏁|
 |----------------------------------|----------------------------|
 | ![0xPrabal.eth GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabalParihar&show_icons=true&theme=tokyonight)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalParihar&hide_progress=true&theme=tokyonight&langs_count=8)](https://github.com/PrabalParihar/github-readme-stats)|
 
