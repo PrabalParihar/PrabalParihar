@@ -47,6 +47,17 @@
 
 - **Google Devfest 2021**: Web Track Winner 🏆
 
+- ## 🔧 Technical Skills
+
+### 🛠 Blockchain Development
+- **Re-staking Protocols**: Worked on enhancing security and functionality of blockchain protocols by building and optimizing re-staking mechanisms.
+- **Zero Knowledge Proofs (ZKP)**: Hands-on experience with ZK circuits, utilizing cryptography to ensure privacy in decentralized applications.
+- **Smart Contract Development (Solidity)**: Developed and deployed multiple Ethereum-based smart contracts on EVM-compatible chains, with a focus on DeFi, NFTs, and Layer 2 solutions.
+  
+### 🌐 Backend Development
+- **Golang**: Proficient in building high-performance, scalable, and secure blockchain backends using Golang. Implemented multiple services for real-time dApp data processing and blockchain interactions.
+- **RESTful APIs**: Built and integrated secure, efficient APIs to interact with blockchain networks.
+
 <h3 align="center">
   <img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
 </h3>
