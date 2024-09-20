@@ -1,7 +1,7 @@
 # Profile
 
 <h1 align="center">Hi 👋, I'm Prabal Pratap Singh</h1>
-<h3 align="center">Full Stack & Blockchain Developer with 3 Years of Experience</h3>
+<h3 align="center">Full Stack & Blockchain Developer with 5 Years of Experience</h3>
 
 <p align="center">
   <img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250">
