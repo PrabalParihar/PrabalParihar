@@ -47,7 +47,7 @@
 
 - **Google Devfest 2021**: Web Track Winner 🏆
 
-- ## 🔧 Technical Skills
+## 🔧 Technical Skills
 
 ### 🛠 Blockchain Development
 - **Re-staking Protocols**: Worked on enhancing security and functionality of blockchain protocols by building and optimizing re-staking mechanisms.
