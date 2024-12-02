@@ -35,6 +35,10 @@
 
 ### Honors & Awards 🏅
 
+- **ETHGlobal Bangkok 2024 Hackathon**: Winner for **Best Chronicle use** 🏆
+
+- **Encode Bitcoin 2024 Hackathon**: Winner for **Best Dapp in Glitter** 🏆
+
 - **ETHOnline 2024 Hackathon**: Winner for **Best Developer Tooling** 🏆
 
 - **Video-Jam** | Devfolio | Huddle01 | Best Peer-to-Peer NFT Gated Video Chat
