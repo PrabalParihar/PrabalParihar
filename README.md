@@ -1,7 +1,7 @@
 # Profile
 
 <h1 align="center">Hi 👋, I'm Prabal Pratap Singh</h1>
-<h3 align="center">Full Stack & Blockchain Developer with 5 Years of Experience</h3>
+<h3 align="center">Full Stack & Blockchain Developer with 6 Years of Experience</h3>
 
 <p align="center">
   <img src="https://github.com/nikhilverma360/nikhilverma360/blob/main/animation_500_ki5uuop9.gif" width="250" height="250">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 💼 I have been working full-time as a **Full Stack Blockchain Developer** for almost 3 years.
+- 💼 I have been working full-time as a **Full Stack Blockchain Developer** for almost 5 years.
 
 - 🌱 I’m currently exploring **ERC4337, ERC6551, Zero Knowledge Proofs**, and doing extra work in **Restaking AVS** on EVM-compatible chains.
 
