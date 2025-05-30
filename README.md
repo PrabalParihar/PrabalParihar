@@ -35,6 +35,10 @@
 
 ### Honors & Awards 🏅
 
+- **EDU Chain Semester 2 Hackathon  2025 Hackathon**: Winner for **Best DEFI** 🏆
+
+- **Seedify’s AI Agents Hackathon 2025 Hackathon**: Winner for **Best Infra & Framework** 🏆
+
 - **ETHGlobal Agentic Ethereum 2025 Hackathon**: Winner for **Best Coinbase Developer Platform use** 🏆
 
 - **ETHGlobal Bangkok 2024 Hackathon**: Winner for **Best Chronicle use** 🏆
