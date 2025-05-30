@@ -35,6 +35,8 @@
 
 ### Honors & Awards 🏅
 
+- **ETHGlobal Agentic Ethereum 2025 Hackathon**: Winner for **Best Coinbase Developer Platform use** 🏆
+
 - **ETHGlobal Bangkok 2024 Hackathon**: Winner for **Best Chronicle use** 🏆
 
 - **Encode Bitcoin 2024 Hackathon**: Winner for **Best Dapp in Glitter** 🏆
