@@ -25,7 +25,7 @@
 
 - 💬 I frequently talk about **#web3education**, **#blockchainTalks**, and **#SmartContracts**.
 
-  ![image](https://github.com/PrabalParihar/PrabalParihar/assets/62445763/81640750-45d1-4063-9f42-0b919ccc5069)
+
 
 - 👨‍💻 I work on **Upwork as a Freelance Web3 Developer** in my free time (which I rarely get 😊).
 
