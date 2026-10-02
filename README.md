@@ -1,16 +1,16 @@
 # Prabal Pratap Singh
 
-Sr. Full Stack & Blockchain Lead · Founder, Testimonia · Uniswap V4 / LiquiFi @ Warlands
+Sr. Full Stack & Blockchain Lead · Founder, Testimonia · Uniswap V4 / CopyPool @ Warlands
 
 [prabal.pro](https://prabal.pro) · [testimonia.xyz](https://testimonia.xyz) · [X (@0xPrabalParihar)](https://x.com/0xPrabalParihar) · [LinkedIn](https://www.linkedin.com/in/prabal-pratap-singh-0xprabal-eth-00578718a/)
 
 Prabal Pratap Singh (Prabal Parihar) ships production SaaS and blockchain systems. Portfolio and case studies: [prabal.pro](https://prabal.pro). Based in India, remote-ready with overlap into US Eastern hours.
 
-![Profile views for PrabalParihar](https://komarev.com/ghpvc/?username=PrabalParihar&label=Profile+views&color=0e75b6&style=flat)
+![Profile views for PrabalParihar](https://hits.sh/github.com/PrabalParihar.svg?label=Profile+views&color=0e75b6&style=flat)
 
 ## About
 
-- **Full Stack Blockchain Lead at Warlands** (October 2025–present), building Uniswap V4 liquidity automation on LiquiFi.
+- **Full Stack Blockchain Lead at Warlands** (October 2025–present), building Uniswap V4 liquidity automation on [CopyPool](https://copypools.com/).
 - **Founder of [Testimonia](https://testimonia.xyz)**, an AI testimonials SaaS: WhatsApp and QR review collection, an approval inbox, and branded Reels, social images, Shopify widgets, and a Wall of Love.
 - Previously Blockchain Lead at OrzenHQ (May 2026–September 2026). Earlier engineering roles include KalpStudio, Mai Labs, and CredShields.
 - **Open for contracts and freelance.** Email [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com).
@@ -18,7 +18,7 @@ Prabal Pratap Singh (Prabal Parihar) ships production SaaS and blockchain system
 ## Featured work
 
 - **[Testimonia](https://testimonia.xyz)** — Founder. Live AI testimonials product, from review capture through branded social and storefront embeds. Write-up on [prabal.pro](https://prabal.pro).
-- **LiquiFi** — Uniswap V4–native liquidity management at Warlands: LP automation for auto-range, compound, and exit. Overview on [prabal.pro](https://prabal.pro).
+- **[CopyPool](https://copypools.com/)** — Uniswap V4–native liquidity management at Warlands: LP automation for auto-range, compound, and exit. Overview on [prabal.pro](https://prabal.pro).
 - **More selected work** — Additional products and protocols are on [prabal.pro](https://prabal.pro). Site source: [PrabalParihar/portfolio](https://github.com/PrabalParihar/portfolio).
 
 ## Hackathon wins
