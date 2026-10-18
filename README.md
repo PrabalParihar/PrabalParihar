@@ -1,11 +1,11 @@
 # Prabal Pratap Singh (ZeroX)
 
 **I build Uniswap v4 LP automation and AI agents that manage onchain liquidity.**
-Founder of [WitLabs](https://witlabs.org) — [CopyPool](https://copypools.com) and [Testimonia](https://testimonia.xyz). 5+ years of full-stack Web3.
+Building [CopyPool](https://copypools.com) and [Testimonia](https://testimonia.xyz). 5+ years of full-stack Web3.
 
 [prabal.pro](https://prabal.pro) · [X @0xPrabalParihar](https://x.com/0xPrabalParihar) · [LinkedIn](https://www.linkedin.com/in/prabal-pratap-singh-0xprabal-eth-00578718a/) · [Book a call](https://calendly.com/0xprabal/call-with-prabal) · [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com)
 
-## Building now at WitLabs
+## Building now
 
 - **[CopyPool](https://copypools.com)** — Uniswap v4–native liquidity management: LP automation for auto-range, auto-compound and exit. Live.
 - **[Testimonia](https://testimonia.xyz)** — AI testimonials SaaS: WhatsApp and QR review capture, an approval inbox, and branded Reels, social images, Shopify widgets and a Wall of Love.
@@ -39,7 +39,7 @@ Founder of [WitLabs](https://witlabs.org) — [CopyPool](https://copypools.com) 
 
 ## Experience
 
-- **Founder, WitLabs** — CopyPool, Testimonia, Lettercape, Shotcape, Collabcape
+- **Founder & builder** — CopyPool, Testimonia, Lettercape, Shotcape, Collabcape
 - **Full Stack Blockchain Lead, Warlands** (October 2025–present) — Uniswap v4 liquidity automation
 - **Blockchain Lead, OrzenHQ** (May 2026–September 2026)
 - Earlier: KalpStudio, Mai Labs, CredShields
