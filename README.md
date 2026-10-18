@@ -3,7 +3,7 @@
 **I build Uniswap v4 LP automation and AI agents that manage onchain liquidity.**
 Building [CopyPool](https://copypools.com) and [Testimonia](https://testimonia.xyz). 6+ years of full-stack Web3. 10× hackathon winner.
 
-[prabal.pro](https://prabal.pro) · [X @0xPrabalParihar](https://x.com/0xPrabalParihar) · [LinkedIn](https://www.linkedin.com/in/prabal-pratap-singh-0xprabal-eth-00578718a/) · [Book a call](https://calendly.com/0xprabal/call-with-prabal) · [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com)
+[prabal.pro](https://prabal.pro) · [X @0xPrabalParihar](https://x.com/0xPrabalParihar) · [LinkedIn](https://www.linkedin.com/in/0xprabal) · [Book a call](https://calendly.com/0xprabal/call-with-prabal) · [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com)
 
 ## Building now
 
