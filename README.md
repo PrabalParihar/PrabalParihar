@@ -9,6 +9,9 @@ Founder of [WitLabs](https://witlabs.org) — [CopyPool](https://copypools.com) 
 
 - **[CopyPool](https://copypools.com)** — Uniswap v4–native liquidity management: LP automation for auto-range, auto-compound and exit. Live.
 - **[Testimonia](https://testimonia.xyz)** — AI testimonials SaaS: WhatsApp and QR review capture, an approval inbox, and branded Reels, social images, Shopify widgets and a Wall of Love.
+- **[Lettercape](https://lettercape.com)** — On-brand marketing emails: paste your website, get a brand kit, AI drafts and six pre-send checks, then drafts land in Klaviyo, Mailchimp, Omnisend, Brevo or HubSpot. Free beta.
+- **[Shotcape](https://video.witlabs.org)** — Video storyboarding: turn a script or one-line idea into an editable, downloadable storyboard with presenter, voice and format directions. Interactive preview.
+- **[Collabcape](https://creators.witlabs.org)** — Creator campaign workspace: discover creators, research their content and draft outreach, all grounded in your brand context. Interactive demo.
 - Case studies and more work: **[prabal.pro](https://prabal.pro)**
 
 ## Selected open source
@@ -36,7 +39,7 @@ Founder of [WitLabs](https://witlabs.org) — [CopyPool](https://copypools.com) 
 
 ## Experience
 
-- **Founder, WitLabs** — CopyPool, Testimonia
+- **Founder, WitLabs** — CopyPool, Testimonia, Lettercape, Shotcape, Collabcape
 - **Full Stack Blockchain Lead, Warlands** (October 2025–present) — Uniswap v4 liquidity automation
 - **Blockchain Lead, OrzenHQ** (May 2026–September 2026)
 - Earlier: KalpStudio, Mai Labs, CredShields
