@@ -1,25 +1,27 @@
-# Prabal Pratap Singh
+# Prabal Pratap Singh (ZeroX)
 
-Sr. Full Stack & Blockchain Lead · Founder, Testimonia · Uniswap V4 / CopyPool @ Warlands
+**I build Uniswap v4 LP automation and AI agents that manage onchain liquidity.**
+Founder of [WitLabs](https://witlabs.org) — [CopyPool](https://copypools.com) and [Testimonia](https://testimonia.xyz). 5+ years of full-stack Web3.
 
-[prabal.pro](https://prabal.pro) · [testimonia.xyz](https://testimonia.xyz) · [X (@0xPrabalParihar)](https://x.com/0xPrabalParihar) · [LinkedIn](https://www.linkedin.com/in/prabal-pratap-singh-0xprabal-eth-00578718a/)
+[prabal.pro](https://prabal.pro) · [X @0xPrabalParihar](https://x.com/0xPrabalParihar) · [LinkedIn](https://www.linkedin.com/in/prabal-pratap-singh-0xprabal-eth-00578718a/) · [Book a call](https://calendly.com/0xprabal/call-with-prabal) · [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com)
 
-Prabal Pratap Singh (Prabal Parihar) ships production SaaS and blockchain systems. Portfolio and case studies: [prabal.pro](https://prabal.pro). Based in India, remote-ready with overlap into US Eastern hours.
+## Building now at WitLabs
 
-![Profile views for PrabalParihar](https://hits.sh/github.com/PrabalParihar.svg?label=Profile+views&color=0e75b6&style=flat)
+- **[CopyPool](https://copypools.com)** — Uniswap v4–native liquidity management: LP automation for auto-range, auto-compound and exit. Live.
+- **[Testimonia](https://testimonia.xyz)** — AI testimonials SaaS: WhatsApp and QR review capture, an approval inbox, and branded Reels, social images, Shopify widgets and a Wall of Love.
+- Case studies and more work: **[prabal.pro](https://prabal.pro)**
 
-## About
+## Selected open source
 
-- **Full Stack Blockchain Lead at Warlands** (October 2025–present), building Uniswap V4 liquidity automation on [CopyPool](https://copypools.com/).
-- **Founder of [Testimonia](https://testimonia.xyz)**, an AI testimonials SaaS: WhatsApp and QR review collection, an approval inbox, and branded Reels, social images, Shopify widgets, and a Wall of Love.
-- Previously Blockchain Lead at OrzenHQ (May 2026–September 2026). Earlier engineering roles include KalpStudio, Mai Labs, and CredShields.
-- **Open for contracts and freelance.** Email [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com).
-
-## Featured work
-
-- **[Testimonia](https://testimonia.xyz)** — Founder. Live AI testimonials product, from review capture through branded social and storefront embeds. Write-up on [prabal.pro](https://prabal.pro).
-- **[CopyPool](https://copypools.com/)** — Uniswap V4–native liquidity management at Warlands: LP automation for auto-range, compound, and exit. Overview on [prabal.pro](https://prabal.pro).
-- **More selected work** — Additional products and protocols are on [prabal.pro](https://prabal.pro). Site source: [PrabalParihar/portfolio](https://github.com/PrabalParihar/portfolio).
+| Project | What it is |
+|---|---|
+| [blockless-wizard](https://github.com/PrabalParihar/blockless-wizard) | 🏆 ETHOnline 2024 winner, Best Developer Tooling. VS Code extension to scaffold and deploy Blockless apps. |
+| [polyliquid](https://github.com/PrabalParihar/polyliquid) | ERC-4626 vault bundling stETH + rETH + sAVAX, Chainlink oracle rebalancing and CCIP cross-chain. [Demo](https://polyliquid.vercel.app) |
+| [omni.monster](https://github.com/PrabalParihar/omni.monster) | Cross-chain DEX with trustless atomic swaps. [Demo](https://omni-monster.vercel.app) |
+| [usdc-facilator](https://github.com/PrabalParihar/usdc-facilator) | Gasless USDC transfers with EIP-712 permit signatures and a relayer backend. |
+| [rwa](https://github.com/PrabalParihar/rwa) | RWA invoice financing: senior/junior tranche tokens with a waterfall payout. Solidity + Node + Next.js. |
+| [chainmate](https://github.com/PrabalParihar/chainmate) | AI crypto companion on Base: send and manage crypto by chatting. |
+| [Certify](https://github.com/PrabalParihar/Certify) | Certification system using soulbound tokens. [Demo](https://ks-certify-dapp.netlify.app/) |
 
 ## Hackathon wins
 
@@ -27,16 +29,23 @@ Prabal Pratap Singh (Prabal Parihar) ships production SaaS and blockchain system
 - **Seedify AI Agents Hackathon 2025** — Best Infra & Framework
 - **EDU Chain Semester 2 Hackathon 2025** — Best DeFi
 - **ETHGlobal Bangkok 2024** — Best Chronicle use
-- **ETHOnline 2024** — Best Developer Tooling
-- **Encode Bitcoin 2024** — Best Dapp in Glitter
-- **ETHIndia 2022** — Huddle01 3rd prize, plus NFTPort, Covalent, ENS, and StackOS, for Meet3Club
+- **ETHOnline 2024** — Best Developer Tooling ([blockless-wizard](https://github.com/PrabalParihar/blockless-wizard))
+- **Encode Bitcoin 2024** — Best Dapp in Glittr
+- **ETHIndia 2022** — Huddle01 3rd prize, plus NFTPort, Covalent, ENS and StackOS, for Meet3Club
 - **Polygon BUIDL IT 2021** — 1st prize, Best Web3 Integration with Trell, for NFTable
+
+## Experience
+
+- **Founder, WitLabs** — CopyPool, Testimonia
+- **Full Stack Blockchain Lead, Warlands** (October 2025–present) — Uniswap v4 liquidity automation
+- **Blockchain Lead, OrzenHQ** (May 2026–September 2026)
+- Earlier: KalpStudio, Mai Labs, CredShields
 
 ## Stack
 
-Solidity and Uniswap V4 hooks · TypeScript, Next.js, and React · Go · Node.js · PostgreSQL · Hardhat, Foundry, and Ethers.js · EVM chains
+Solidity and Uniswap v4 hooks · Foundry, Hardhat, Ethers.js · TypeScript, Next.js, React · Node.js, Go · PostgreSQL · AI agents · EVM chains
 
-## GitHub
+## Work with me
 
-[![Prabal Pratap Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabalParihar&show_icons=true&hide_border=true)](https://github.com/PrabalParihar)
-[![Top languages for PrabalParihar](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalParihar&layout=compact&hide_border=true&langs_count=6)](https://github.com/PrabalParihar)
+Open to remote founding-engineer and senior blockchain roles, plus contract work on DeFi, Uniswap v4 and AI × crypto.
+[Book a call](https://calendly.com/0xprabal/call-with-prabal) or email [prabalparihar95@gmail.com](mailto:prabalparihar95@gmail.com).
