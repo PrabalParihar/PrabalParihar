@@ -14,6 +14,12 @@ Building [CopyPool](https://copypools.com) and [Testimonia](https://testimonia.x
 - **[Collabcape](https://creators.witlabs.org)** — Creator campaign workspace: discover creators, research their content and draft outreach, all grounded in your brand context. Interactive demo.
 - Case studies and more work: **[prabal.pro](https://prabal.pro)**
 
+## Merged upstream contributions
+
+| Project | PR | What I fixed |
+|---|---|---|
+| [ElectricSQL / PGlite](https://github.com/electric-sql/pglite) | [#1160](https://github.com/electric-sql/pglite/pull/1160) | The socket server now frees a connection slot when a client errors out, so new clients stop getting refused after a few resets. |
+
 ## Selected open source
 
 | Project | What it is |
