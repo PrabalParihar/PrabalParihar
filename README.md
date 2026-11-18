@@ -20,6 +20,7 @@ Building [CopyPool](https://copypools.com) and [Testimonia](https://testimonia.x
 |---|---|---|
 | [ElectricSQL / PGlite](https://github.com/electric-sql/pglite) | [#1160](https://github.com/electric-sql/pglite/pull/1160) | The socket server now frees a connection slot when a client errors out, so new clients stop getting refused after a few resets. |
 | [LiteLLM](https://github.com/BerriAI/litellm) | [#48393](https://github.com/BerriAI/litellm/pull/48393) | Self-hosted vLLM chat responses now keep vLLM's stop_reason and token_ids on each choice and stream chunk instead of hiding them in a side field. |
+| [Turso](https://github.com/tursodatabase/turso) | [#11913](https://github.com/tursodatabase/turso/pull/11913) | Renaming a table no longer renames another table's auto-index when their names share a prefix, which used to leave a database SQLite refused to open. |
 
 ## Selected open source
 
